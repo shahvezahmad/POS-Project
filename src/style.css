@@ -1,0 +1,142 @@
+@import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
+
+* {
+  box-sizing: border-box;
+  font-size: 16px;
+  margin: 0;
+  font-family: "Roboto", sans-serif;
+  text-align: center;
+}
+
+h1 {
+  text-align: center;
+  font-size: 30px;
+  font-weight: bold;
+  color: #333;
+  text-transform: uppercase;
+}
+
+body {
+  background-color: #f5f5f5;
+}
+
+input {
+  padding: 12px 20px;
+  margin: 8px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center;
+}
+
+input:disabled {
+  background-color: #f1f1f1;
+}
+
+.Add_product_link {
+  display: block;
+  color: #2196f3;
+  text-decoration: none;
+  text-align: center;
+  border: none;
+  margin: 0 auto;
+  margin-top: 10px;
+  margin-bottom: 10px;
+}
+
+.Products_Menu {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+}
+
+.edit_input:disabled {
+  background-color: #f1f1f1;
+  text-decoration: none;
+  text-align: center;
+  border: none;
+  padding: 0 10px;
+  width: 240px;
+  background: none;
+}
+
+select {
+  padding: 12px 20px;
+  margin: 8px 10px;
+  display: inline-block;
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  box-sizing: border-box;
+  text-align: center;
+}
+option {
+  text-align: center;
+}
+
+.categories {
+  display: flex;
+  flex-direction: row;
+  flex-wrap: wrap;
+  text-align: center;
+}
+
+.form-error {
+  color: rgb(122, 12, 22);
+  margin-bottom: 10px;
+  font-size: 12px;
+}
+
+form {
+  border: 1px solid #ccc;
+  border-radius: 4px;
+  margin: 10px;
+  width: 300px;
+  margin: 0 auto;
+  display: flex;
+  flex-direction: column;
+  flex-wrap: wrap;
+  justify-content: center;
+  align-items: center;
+}
+
+.loader {
+  font-size: 100px;
+  animation: spin 1s linear infinite;
+}
+
+.loading-pane {
+  align-items: center;
+  justify-content: center;
+  display: flex;
+  padding: 15px;
+}
+
+@keyframes spin {
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+.details {
+  margin: 0 auto;
+  background-color: #f5f5f5;
+  padding: 20px;
+  width: 100%;
+  box-sizing: border-box;
+  border-radius: 10px;
+  box-shadow: 0 0 10px 0 rgba(0, 0, 0, 0.2);
+  text-align: center;
+}
+
+@media screen and (max-width: 767px) {
+  .searchFilter {
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+}
+
+.ProductsMenu {
+  width: 100%;
+}

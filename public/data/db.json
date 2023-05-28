@@ -1,0 +1,291 @@
+{
+  "categories": [
+    {
+      "name": "Tshirts",
+      "createdTime": "2023-05-16T06:48:05.394Z",
+      "id": 1
+    },
+    {
+      "name": "Shirts",
+      "createdTime": "2023-05-16T06:52:33.396Z",
+      "id": 2
+    },
+    {
+      "name": "Jackets",
+      "createdTime": "2023-05-16T06:54:27.330Z",
+      "id": 3
+    },
+    {
+      "name": "Shorts",
+      "createdTime": "2023-05-16T06:54:48.902Z",
+      "id": 4
+    },
+    {
+      "name": "Bottoms",
+      "createdTime": "2023-05-16T06:54:58.188Z",
+      "id": 5
+    },
+    {
+      "name": "Jeans",
+      "createdTime": "2023-05-16T06:55:46.106Z",
+      "id": 6
+    },
+    {
+      "name": "Caps",
+      "createdTime": "2023-05-16T06:57:16.612Z",
+      "id": 7
+    },
+    {
+      "name": "Face Mask",
+      "createdTime": "2023-05-16T06:57:32.458Z",
+      "id": 8
+    }
+  ],
+  "products": [
+    {
+      "name": "Imagination ",
+      "price": 1200,
+      "description": "Bonkers Corner",
+      "code": 1,
+      "image": "https://assets.bonkerscorner.com/uploads/2023/04/14142728/Bonkerscorner_Don-quixote_03.jpg",
+      "categoryId": "10",
+      "createdTime": "2023-05-16T06:49:58.760Z",
+      "id": 12
+    },
+    {
+      "name": "Coco Berry",
+      "price": 1199,
+      "description": "Oversized Shirt",
+      "code": 1,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/10/13175848/Bonkerscorner_coco_berry_shirt03.jpg",
+      "categoryId": "11",
+      "createdTime": "2023-05-16T06:59:50.811Z",
+      "id": 13
+    },
+    {
+      "name": "Brown Plaid",
+      "price": 1199,
+      "description": "Flannel Shirt",
+      "code": 2,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/10/13160446/Bonkerscorner_brown_plaid_shirt04.jpg",
+      "categoryId": "11",
+      "createdTime": "2023-05-16T07:01:35.343Z",
+      "id": 14
+    },
+    {
+      "name": "Off White",
+      "price": 1199,
+      "description": "Pastel Shirt",
+      "code": 3,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/03/24110819/Bonkerscorner_off_white_shirt_04.jpg",
+      "categoryId": "11",
+      "createdTime": "2023-05-16T07:03:17.538Z",
+      "id": 15
+    },
+    {
+      "name": "Checkered Plaid",
+      "price": 1600,
+      "description": "Navy Blue Shirt",
+      "code": 4,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/03/23155115/Bonkerscorner_navy_blue_shirt_02.jpg",
+      "categoryId": "11",
+      "createdTime": "2023-05-16T07:06:19.277Z",
+      "id": 16
+    },
+    {
+      "name": "Prusian Must",
+      "price": 1199,
+      "description": "Oversized Shirt",
+      "code": 5,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/09/05115550/Prussian-Mustard-Checkered-Plaid-Oversized-Shirt1.jpg",
+      "categoryId": "11",
+      "createdTime": "2023-05-16T07:08:31.331Z",
+      "id": 17
+    },
+    {
+      "name": "Charcoal Fade",
+      "price": 999,
+      "description": "Oversized Shirt",
+      "code": 6,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/11/23181845/Bonkerscorner_Charcoal_faded_shirt01.jpg",
+      "categoryId": "11",
+      "createdTime": "2023-05-16T07:13:04.370Z",
+      "id": 18
+    },
+    {
+      "name": "Slayera",
+      "price": 799,
+      "description": "Bonkers Tshirt",
+      "code": 2,
+      "image": "https://assets.bonkerscorner.com/uploads/2023/03/31111443/Bonkerscorner_Slayer_04.jpg",
+      "categoryId": "10",
+      "createdTime": "2023-05-16T07:15:55.909Z",
+      "id": 19
+    },
+    {
+      "name": "ChainSaw",
+      "price": 699,
+      "description": "Oversized",
+      "code": 3,
+      "image": "https://assets.bonkerscorner.com/uploads/2023/03/30141122/Bonkerscorner_Chainsaw-men_05.jpg",
+      "categoryId": "10",
+      "createdTime": "2023-05-16T07:16:37.514Z",
+      "id": 20
+    },
+    {
+      "name": "Luffy",
+      "price": 699,
+      "description": "OnePiece Oversized",
+      "code": 4,
+      "image": "https://assets.bonkerscorner.com/uploads/2023/03/29140022/Bonkerscorner_Luffy_01.jpg",
+      "categoryId": "10",
+      "createdTime": "2023-05-16T07:17:42.610Z",
+      "id": 21
+    },
+    {
+      "name": "Dark Grey",
+      "price": 1299,
+      "description": "Zipper",
+      "code": 1,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/01/30183125/Bonkerscorner_dark_grey_melange_zipper_87.jpg",
+      "categoryId": "12",
+      "createdTime": "2023-05-16T07:18:51.227Z",
+      "id": 22
+    },
+    {
+      "name": "Brown",
+      "price": 1299,
+      "description": "Oversized",
+      "code": 2,
+      "image": "https://assets.bonkerscorner.com/uploads/2021/04/18091642/Bonkerscorner_-Brown_oversized_zipper_2803.jpg",
+      "categoryId": "12",
+      "createdTime": "2023-05-16T07:19:50.832Z",
+      "id": 23
+    },
+    {
+      "name": "Lilac Fleece",
+      "price": 997,
+      "description": "Bonkers Corner",
+      "code": 3,
+      "image": "https://assets.bonkerscorner.com/uploads/2021/01/23122343/IMG_4539-scaled.jpg",
+      "categoryId": "12",
+      "createdTime": "2023-05-16T07:20:34.087Z",
+      "id": 24
+    },
+    {
+      "name": "Multi Tye Dye",
+      "price": 498,
+      "description": "Shorts",
+      "code": 9,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/12/19190902/20221219_131655274_iOS.jpg",
+      "categoryId": "13",
+      "createdTime": "2023-05-16T07:22:00.516Z",
+      "id": 25
+    },
+    {
+      "name": "Panther Jersey",
+      "price": 399,
+      "description": "Shorts",
+      "code": 10,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/12/08153251/Bonkerscorner_panther-jersey-shorts04.jpg",
+      "categoryId": "13",
+      "createdTime": "2023-05-16T07:23:01.696Z",
+      "id": 26
+    },
+    {
+      "name": "Black",
+      "price": 999,
+      "description": "Bottom",
+      "code": 11,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/12/30184229/Black-parachute-pants-2.jpg",
+      "categoryId": "14",
+      "createdTime": "2023-05-16T07:24:55.669Z",
+      "id": 27
+    },
+    {
+      "name": "Grey",
+      "price": 999,
+      "description": "Parachute new",
+      "code": 12,
+      "image": "https://assets.bonkerscorner.com/uploads/2023/03/30153037/Bonkerscorner_Grey-parachute-pants_02-1.jpg",
+      "categoryId": "15",
+      "createdTime": "2023-05-16T07:26:12.803Z",
+      "id": 28
+    },
+    {
+      "name": "XO-Smiley",
+      "price": 598,
+      "description": "Cap",
+      "code": 12,
+      "image": "https://assets.bonkerscorner.com/uploads/2022/12/30175609/Bonkerscorner_Smiley_cap_02.jpg",
+      "categoryId": "16",
+      "createdTime": "2023-05-16T07:27:13.084Z",
+      "id": 29
+    }
+  ],
+  "users": [
+    {
+      "id": 1,
+      "username": "admin",
+      "password": "admin12345"
+    },
+    {
+      "id": 2,
+      "username": "shahvez",
+      "password": "Shahvez@123"
+    }
+  ],
+  "orders": [
+    {
+      "cart_Products": [
+        {
+          "id": 4,
+          "name": "Fish",
+          "price": 100,
+          "count": 2
+        }
+      ],
+      "totalprice": 200,
+      "discountRate": 0,
+      "taxRate": 0,
+      "createdTime": "2023-02-26T13:14:45.269Z",
+      "id": 1
+    },
+    {
+      "cart_Products": [
+        {
+          "id": 10,
+          "name": "USB Cable",
+          "price": 5,
+          "count": 3
+        }
+      ],
+      "totalprice": 15.15,
+      "discountRate": "19",
+      "taxRate": "20",
+      "createdTime": "2023-02-27T08:51:39.240Z",
+      "id": 4
+    },
+    {
+      "cart_Products": [
+        {
+          "id": 4,
+          "name": "Fish",
+          "price": "80",
+          "count": 1
+        },
+        {
+          "id": 5,
+          "name": "Seafood Boil ",
+          "price": 50,
+          "count": 1
+        }
+      ],
+      "totalprice": 130,
+      "discountRate": 0,
+      "taxRate": 0,
+      "createdTime": "2023-03-22T08:49:24.900Z",
+      "id": 5
+    }
+  ]
+}

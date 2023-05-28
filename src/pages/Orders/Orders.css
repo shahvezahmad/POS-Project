@@ -1,0 +1,44 @@
+.orders {
+  margin: 0 auto;
+  width: 100%;
+  max-width: 1200px;
+  padding: 0 20px;
+  box-sizing: border-box;
+  border: 1px solid #ccc;
+}
+
+.order {
+  width: 50%;
+  display: flex;
+  flex-direction: column;
+  margin: 20px 0;
+  padding: 20px;
+  border: 1px solid #ccc;
+  margin: auto;
+  margin-bottom: 10px;
+  border-radius: 5px;
+}
+
+.orderItem {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+  margin: 10px 0;
+  padding: 10px;
+  border: 1px solid #ccc;
+}
+
+.totalPrice {
+  color: red;
+}
+
+.ordersCount {
+  margin: 20px 0;
+  padding: 20px;
+}
+
+@media screen and (max-width: 768px) {
+  .order {
+    width: 90%;
+  }
+}
